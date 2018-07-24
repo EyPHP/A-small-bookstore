@@ -1,0 +1,1 @@
+在php.ini中设置always_populate_raw_post_data = -1;
